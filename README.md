@@ -5,11 +5,11 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>JavaScript.</strong>
+  🦄 Linguagens: <strong>JavaScript, Figma.</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VScode, Git.</strong>
+  💼 Ferramentas: <strong>VScode, Git e GitHub.</strong>
 </p>
 
 <p align="left">
